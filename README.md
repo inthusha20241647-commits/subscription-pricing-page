@@ -4,7 +4,7 @@ A responsive subscription pricing page built using HTML and CSS. The page displa
 
 ## Live Website
 
-[View the Live Website](YOUR-WEBSITE-LINK-HERE)
+https://inthusha20241647-commits.github.io/subscription-pricing-page/
 
 ## Technologies Used
 
