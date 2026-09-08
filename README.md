@@ -1,21 +1,22 @@
-# Subscription Pricing Page
+ # 💳 Subscription Pricing Page
 
 A responsive subscription pricing page built using HTML and CSS. The page displays Free, Standard, and Premium subscription plans with their available features.
 
-## Live Website
+## 🌐 Live Website
 
-https://inthusha20241647-commits.github.io/subscription-pricing-page/
+🔗 https://inthusha20241647-commits.github.io/subscription-pricing-page/
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-* HTML
-* CSS
+* 🌐 HTML
+* 🎨 CSS
 
-## Features
+## ✨ Features
 
-* Responsive subscription pricing cards
-* Free, Standard, and Premium plans
-* Tick and cross indicators for features
-* Responsive layout for different screen sizes
-* Clean and simple design
+* 📱 Responsive subscription pricing cards
+* 🆓 Free, ⭐ Standard, and 👑 Premium plans
+* ✅ Tick and ❌ cross indicators for features
+* 📐 Responsive layout for different screen sizes
+* 🎨 Clean and simple design
+
 
